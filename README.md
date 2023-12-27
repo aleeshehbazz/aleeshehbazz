@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working on ** ANGULAR, LARAVEL, IONIC, FLUTTER & AWS  **
 
-- 📫 How to reach me **alee.shahbazz@gmail.com & a.shahbaz@streamedinc.com **
+- 📫 How to reach me **alee.shahbazz@gmail.com **
 
 
 
